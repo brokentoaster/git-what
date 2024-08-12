@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # git what Copyright (C) 2017 Andy Balaam, released under GPLv2 or later.
 
